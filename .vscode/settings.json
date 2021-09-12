@@ -1,0 +1,21 @@
+{
+  "files.exclude": {
+    // ".dart_tool": true,
+    // ".idea": true,
+    // "android": true,
+    // "ios": true,
+    // "build": true,
+    // "web": true,
+    // "test": true,
+    // ".gitignore": true,
+    // "pubspec.lock": true,
+    // ".metadata": true,
+    // ".packages": true,
+    // "flutter_app_01.iml": true,
+    // "analysis_options.yaml": true,
+    // "README.md": true,
+
+    // "assets/fonts/JosefinSans/*": true,
+    // "assets/fonts/Montserrat/*": true
+  }
+}
